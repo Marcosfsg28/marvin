@@ -1,6 +1,4 @@
-function nomedevolta() {
-    console.log("marvin");
-return"o andróide paranóide"
+function nomeDeVolta() {
+console.log("Marvin");
+return " O andróide paranóide"
 }
-
-
